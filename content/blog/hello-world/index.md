@@ -1,21 +1,12 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello World Jagalah Allah, niscaya Allah akan menjagamu
+date: "2019-04-22T16:00:03.284Z"
 ---
 
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+عَنْ أَبِي الْعَبَّاسِ عَبْدِ اللهِ بْنِِ عَبَّاسٍٍٍِ رَضِيَ اللهُ عَنْهُمَا قَالَ : كُنْتُ خَلْفَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا ، فَقَالَ «يَا غُلَامُ ! إِنِّي أُعَلِّمُكَ كَلِمَاتٍ : اِحْفَظِ اللهَ يَحْفَظْكَ ، اِحْفَظِ اللهَ تَجِدْهُ تُجَاهَكَ ، إِذَا سَأَلْتَ فَاسْأَلِ اللهَ ، وَإِذَا اسْتَعَنْتَ فَاسْتَـعِنْ بِاللهِ. وَاعْلَمْ أَنَّ الْأُمَّةَ لَوِاجْتَمَعَتْ عَلىَ أَنْ يَنْفَعُوكَ بِشَيْءٍ ؛ لَمْ يَنْفَعُوْكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللهُ لَكَ، وَ إِنِ اجْتَمَعُوْا عَلَى أَنْ يَضُرُّوْكَ بِشَيْءٍ ؛ لَمْ يَضُرُّوْكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللهُ عَلَيْكَ ، رُفِعَتِ الْأَقْلَامُ وَجَفَّتِ الصُّحُفُ». رَوَاهُ التِّرْمِذِيُّ ، وَقَالَ : حَدِيْثٌ حَسَنٌ صَحِيِحٌ. وَفِي رِوَايَةٍ غَيْرِ التِّرْمِذِيِّ : «اِحْفَظِ اللهَ تَجِدْهُ أَمَامَكَ ، تَعَرَّفْ إِلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّ ةِ. وَاعْلَمْ أَنَّ مَاأَخْطَأَكَ ؛ لَمْ يَكُنْ لِيُصِيْبَكَ ، وَمَا أَصَابَكَ ؛ لَمْ يَكُنْ لِيُخْطِئَكَ ، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنَّ الْفَرَجَ مَعَ الكَرْبِ ، وَأَنَّ مَعَ الْعُسْرِ يُسْرًا».
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+Dari Abul ‘Abbas ‘Abdullah bin ‘Abbâs Radhiyallahu anhuma , ia mengatakan, “Pada suatu hari, aku pernah dibonceng di belakang Nabi Shallallahu ‘alaihi wa sallam, lalu beliau bersabda, ‘Wahai anak muda, aku akan mengajarkan kepadamu beberapa kalimat: ‘Jagalah Allah, niscaya Allah akan menjagamu. Jagalah Allah, maka engkau akan mendapati-Nya di hadapanmu. Jika engkau memohon (meminta), mohonlah kepada Allah, dan jika engkau meminta pertolongan, mintalah pertolongan kepada Allah. Ketahuilah, bahwa seandainya seluruh umat berkumpul untuk memberi suatu manfaat kepadamu, maka mereka tidak akan dapat memberi manfaat kepadamu, kecuali dengan sesuatu yang telah ditetapkan Allah untukmu. Sebaliknya, jika mereka berkumpul untuk menimpakan suatu kemudharatan (bahaya) kepadamu, maka mereka tidak akan dapat menimpakan kemudharatan (bahaya) kepadamu, kecuali dengan sesuatu yang telah Allah tetapkan atasmu. Pena telah diangkat dan lembaran-lembaran telah kering.’” [HR. at-Tirmidzi, dan ia berkata, “Hadits ini hasan shahîh.”]
